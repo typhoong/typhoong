@@ -1,4 +1,4 @@
-data scientist and consultant, interested in solving real-world problems with AI 🙌</h1>
+# Data scientist and consultant, interested in solving real-world problems with AI 🙌</h1>
 
 ## Contact
 - Email : poong614@gmail.com
