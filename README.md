@@ -1,4 +1,4 @@
-# 🙌</h1> Hi, I'm Taehoon Kim 
+# 👋 Hi, I'm Eunsu Kim
 
 ## Contact
 - Email : poong614@gmail.com
