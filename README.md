@@ -3,8 +3,9 @@ I'm a data scientist and consultant, interested in solving real-world problems w
 
 - 💼 I received my Bachelor's degree in Economics from Seoul National University
 - 🌱 and I am currently pursuing a Master of Science in Applied Artificial Intelligence at Korea University on a part-time basis.
-- ⚡ I'm a Kaggle Expert and hold the world rank 1 position in Diablo III Season 7
-* 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:poong614@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/taehoon-kim-33a338242/)
+- ⚡ I'm a Kaggle Expert
+-  and hold the world rank 1 position in Diablo III Season 7
+- 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:poong614@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/taehoon-kim-33a338242/)
 
 <!--
 **typhoong/typhoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
