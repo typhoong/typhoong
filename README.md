@@ -11,10 +11,6 @@ I'm a data scientist and consultant, interested in solving real-world problems w
 * Blizzard, Diablo3 Season7: World Rank #1
 
 
-- 🔭 I’m currently working on MLOps, NLP and Quantified Self.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/dongjun-lee/)
-[![Blog Badge](https://img.shields.io/badge/-Blog-000?style=flat-square&logo=Github&logoColor=white&&link=https://dongjunlee.github.io/)](https://dongjunlee.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:humanbrain.djlee@gmail.com)
 <!--
 **typhoong/typhoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
