@@ -1,4 +1,4 @@
-### Hi, I'm Taehoon Kim 👋
+<h1 align="center">Welcome to my Gihub profile! 🙌</h1>
 
 Im a data scientist and consultant, interested in solving real-world problems with AI.
 
