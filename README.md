@@ -1,6 +1,4 @@
-<h1 align="center">Welcome to my Gihub profile! 🙌</h1>
-
-I'm a data scientist and consultant, interested in solving real-world problems with AI.
+data scientist and consultant, interested in solving real-world problems with AI 🙌</h1>
 
 ## Contact
 - Email : poong614@gmail.com
