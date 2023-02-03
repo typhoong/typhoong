@@ -44,22 +44,3 @@ Value of Space, Seoul, Korea                                                    
 Intern
 ●	Led a land price fluctuation rate prediction project for Value of Space applications.
 ●	Built database, identified key variables, conducted EDA, preprocessed data, and developed a statistical model to analyze fluctuations in land value (Time Series Prediction, Pooled OLS).
-
-
-EDUCATION
-
-Seoul National University, Seoul, Korea                                                                                                                                                                                                                                                                                                                                    Mar 2009 - Aug 2018
-Bachelor of Arts in Economics
-Cumulative GPA: 3.6/4.3
-Relevant Coursework: Econometrics, Statistics, Economic mathematics
-
-4th Seoul National University Big Data Fintech Program, Seoul, Korea                                                              Jan 2021 - July 2021
-Trainee
-Relevant Coursework: Python Programming, Data Science, Machine Learning, Deep Learning
-
-Korea University, Seoul, Korea                                                                                                                                                                                                                                                                                                                                                                          Sep 2022 - Present
-Candidate for Master of Science in Applied Artificial Intelligence
-Cumulative GPA: 4.25/4.5
-Relevant Coursework: Deep Learning, NLP, Bayesian Probabilistic Graphical Model, Data Structure
-
-
