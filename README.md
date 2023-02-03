@@ -1,8 +1,6 @@
 ### Hi, I'm Taehoon Kim 👋
 
-### Hi there :wave:
-
-I am a machine learning engineer who wants to deliver valuable tech products to people.
+Im a Data scientist and consultant, interested in solving real-world problems with AI.
 
 - 🔭 I’m currently working on MLOps, NLP and Quantified Self.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/dongjun-lee/)
