@@ -2,6 +2,8 @@
 
 Im a data scientist and consultant, interested in solving real-world problems with AI.
 
+## Contact
+
 ## Education
 
 ## Awards
