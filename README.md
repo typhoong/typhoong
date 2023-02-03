@@ -3,8 +3,8 @@
 I'm a data scientist and consultant, interested in solving real-world problems with AI.
 
 ## Contact
-Email : poong614@gmail.com
-LinkedIn : https://www.linkedin.com/in/taehoon-kim-33a338242/
+- Email : poong614@gmail.com
+- LinkedIn : https://www.linkedin.com/in/taehoon-kim-33a338242/
 
 ## Education
 
