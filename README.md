@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Taehoon Kim
+# 😊 Hi, I'm Taehoon Kim
 I'm a data scientist and consultant, interested in solving real-world problems with AI.
 
-- 💼 Received Bachelor's degree in Economics from Seoul National University.
+- 🎓 Received Bachelor's degree in Economics from Seoul National University.
 - ✍️ Currently pursuing a Master of Science in Applied Artificial Intelligence at Korea University on a part-time basis.
 - 🧑‍🔬 Have worked as a data scientist at Minds & Company.
 - 🏆 Have earned two medals on Kaggle, which have earned me the title of Kaggle Expert.
