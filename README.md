@@ -4,7 +4,7 @@ I'm a data scientist and consultant, interested in solving real-world problems w
 
 ## Contact
 - Email : poong614@gmail.com
-- LinkedIn : https://www.linkedin.com/in/taehoon-kim-33a338242/
+- LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/taehoon-kim-33a338242/)
 
 ## Education
 
