@@ -1,4 +1,4 @@
-# Data scientist and consultant, interested in solving real-world problems with AI 🙌</h1>
+# 🙌</h1> Hi, I'm Taehoon Kim 
 
 ## Contact
 - Email : poong614@gmail.com
