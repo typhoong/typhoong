@@ -4,6 +4,13 @@ Im a data scientist and consultant, interested in solving real-world problems wi
 
 ## Education
 
+## Awards
+
+Kaggle, 2022 Happy Whale - Whale Identification: Bronze Medal (Top 8%)
+Kaggle, 2022 Petfinder.my - Popularity Contest: Silver Medal (Top 3%)
+Blizzard, Diablo3 Season7: World Rank #1
+
+
 - 🔭 I’m currently working on MLOps, NLP and Quantified Self.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/dongjun-lee/)
 [![Blog Badge](https://img.shields.io/badge/-Blog-000?style=flat-square&logo=Github&logoColor=white&&link=https://dongjunlee.github.io/)](https://dongjunlee.github.io/)
@@ -56,8 +63,3 @@ Cumulative GPA: 4.25/4.5
 Relevant Coursework: Deep Learning, NLP, Bayesian Probabilistic Graphical Model, Data Structure
 
 
-AWARDS AND HONORS
-
-Kaggle, 2022 Happy Whale - Whale Identification: Bronze Medal (Top 8%)
-Kaggle, 2022 Petfinder.my - Popularity Contest: Silver Medal (Top 3%)
-Blizzard, Diablo3 Season7: World Rank #1
