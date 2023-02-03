@@ -7,7 +7,9 @@ Im a data scientist and consultant, interested in solving real-world problems wi
 ## Awards
 
 Kaggle, 2022 Happy Whale - Whale Identification: Bronze Medal (Top 8%)
+
 Kaggle, 2022 Petfinder.my - Popularity Contest: Silver Medal (Top 3%)
+
 Blizzard, Diablo3 Season7: World Rank #1
 
 
