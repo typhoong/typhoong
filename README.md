@@ -1,5 +1,5 @@
 # 😊 Hi, I'm Taehoon Kim
-I'm a AI consultant and data scientist, interested in solving real-world problems with AI.
+I'm a consultant and data scientist, interested in solving real-world problems with AI.
 
 - 🎓 Received Bachelor's degree in Economics from Seoul National University.
 - ✍️ Currently pursuing a Master of Science in Applied Artificial Intelligence at Korea University on a part-time basis.
