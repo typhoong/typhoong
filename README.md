@@ -1,4 +1,4 @@
-# 😊 Hi, I'm Taehoon Kim
+# 😊 Hi, I'm Taehun Kim
 I'm a consultant and data scientist, interested in solving real-world problems with AI.
 
 - 🎓 Received Bachelor's degree in Economics from Seoul National University.
